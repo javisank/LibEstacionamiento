@@ -1,0 +1,56 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LuzAuto	KEYWORD1
+SensorBarrera	KEYWORD1
+SensorAuto	KEYWORD1
+Pulsador	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+encender	KEYWORD2
+apagar	KEYWORD2
+leer	KEYWORD2
+esperar	KEYWORD2
+mostrar_cartel	KEYWORD2
+mostrar_numero	KEYWORD2
+ingresar_numero	KEYWORD2
+inicializar_sistema	KEYWORD2
+inicializar_barreras	KEYWORD2
+finalizar	KEYWORD2
+subir_barrera_entrada	KEYWORD2
+subir_barrera_salida	KEYWORD2
+bajar_barrera_entrada	KEYWORD2
+bajar_barrera_salida	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+ACTIVADO	LITERAL1
+DESACTIVADO	LITERAL1
+PRESIONADO	LITERAL1
+NO_PRESIONADO	LITERAL1
+ROJO	LITERAL1
+VERDE	LITERAL1
+REPETIR	LITERAL1
+
+#######################################
+# Variables (LITERAL1)
+#######################################
+estado_entrada	LITERAL1
+estado_salida	LITERAL1
+estado_auto1	LITERAL1
+estado_auto2	LITERAL1
+estado_auto3	LITERAL1
+estado_auto4	LITERAL1
+numero_ingresado	LITERAL1
+estado_pulsador	LITERAL1
