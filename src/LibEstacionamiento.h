@@ -73,6 +73,8 @@ extern int estado_auto4;
 extern int estado_pulsador;
 extern int numero_ingresado;
 
+//Variable contador
+extern int contador;
 
 
 //sino hacer una clase para luces y habria 8 instancias en vez de 4.

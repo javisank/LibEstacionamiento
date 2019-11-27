@@ -210,6 +210,8 @@ int estado_auto4=DESACTIVADO;
 int estado_pulsador=NO_PRESIONADO;
 int numero_ingresado=0;
 
+//Variable contador
+int contador=0;
 
 //Variables elementos del sistema
 LuzAuto luz_auto1(pin_Rojo1,pin_Verde1);
