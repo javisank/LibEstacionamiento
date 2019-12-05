@@ -1,6 +1,6 @@
 /*
-  LibEstacionamientoC.cpp - Libreria para el manejo de la 
-  estacion del cruce de calles con semaforo.
+  LibEstacionamientoC.h - Libreria para el manejo de la 
+  estacion del Estacionamiento.
   Javier Sankowicz.
 */
 
