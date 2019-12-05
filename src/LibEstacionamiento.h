@@ -1,6 +1,6 @@
 /*
   LibEstacionamientoC.h - Libreria para el manejo de la 
-  estacion del cruce de calles con semaforo.
+  estacion del Estacionamiento.
   Javier Sankowicz.
 */
 #ifndef LibEstacionamiento_h
